@@ -1,0 +1,12 @@
+click==8.0.1
+configobj==5.0.6
+future==0.18.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pyperclip==1.8.2
+python-gnupg==0.4.7
+python-ldap==3.3.1
+secrets==1.0.2
+six==1.16.0
+systematic==4.8.7
+uuid==1.30

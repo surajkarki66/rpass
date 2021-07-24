@@ -41,7 +41,7 @@ setup(
     author_email="suraj.karki500@protonmail.com",
     license="MIT",
     classifiers=[
-          'Development Status :: 1 - Production/Stable',
+          'Development Status :: 5 - Production/Stable',
           'Programming Language :: Python :: 2.7',
           'Programming Language :: Python :: 3',
           'Environment :: Console',

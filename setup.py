@@ -25,7 +25,7 @@ def read_requirements():
 setup(
     name="rpass",
     description="A simple commandline app for generating strong random passwords",
-    version="0.0.1",
+    version="0.0.2",
     packages=find_packages(),
     install_requires=read_requirements(),
     include_package_data=True,

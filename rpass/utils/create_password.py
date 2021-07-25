@@ -60,5 +60,5 @@ def create(length, seq):
 
 
 def _error(msg=""):
-    click.echo(click.style(f'rpass: error: {msg}', fg="red", bold=True))
+    click.echo(click.style(f'Error: {msg}', fg="red", bold=True))
     sys.exit(1)

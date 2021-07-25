@@ -12,7 +12,7 @@ CONTEXT_SETTINGS = dict(help_option_names=["-h", "--help"])
 
 
 @click.command(context_settings=CONTEXT_SETTINGS)
-@click.version_option(version="0.0.1")
+@click.version_option(version="0.0.2")
 @click.option(
     "-l", "--length", type=int, default=12, help="Password length(default: 12)"
 )
